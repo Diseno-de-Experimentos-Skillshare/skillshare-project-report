@@ -7,12 +7,13 @@
 <strong><h4>Universidad Peruana de Ciencias Aplicadas</h4></strong> </div>
 <div align="center"> <strong>Ingeniería de Software</strong> </div>
 <br>
-<div align="center"> <strong>Periodo: 202520</strong> </div>
+<div align="center"> <strong>Periodo: 202610</strong> </div>
 
-<div align="center">1ACC0238 | Aplicaciones Para Dispositivos Móviles</div><div align="center">NRC: 12614</div>
+<div align="center">1ACC0238 | Diseño de Experimentos
+de Ingeniería de Software</div><div align="center">NRC: 12614</div>
 
 <br>
-<div align="center"> <strong>Docente:</strong> Quevedo Velasco, David Gerardo </div>
+<div align="center"> <strong>Docente:</strong> Julio Manuel Noriega Melendez </div>
 <br>
 
 <div align="center"> <strong>Informe de Trabajo Final</strong> </div>
@@ -23,14 +24,13 @@
 <br>
 <div align="center"> <strong>Integrantes:</strong></div>
 
-<div align="center">U20231D978 - Argomedo Camacho, Jhosep Jamil</div>
-<div align="center">U202020230 - González Custodio, Carlos Alberto</div>
-<div align="center">U202121579 - Julca Cruz, Renso Anthony</div>
+<div align="center">U20231D534 - Jorge Luis,
+Díaz Fiestas </div>
 <div align="center">U202316122 - Ramírez Tello, Sebastian</div>
 
 <br>
 <br>
-<div align="center"> <strong>Diciembre, 2025</strong> </div>
+<div align="center"> <strong>Mayo, 2026</strong> </div>
 
 <br>
 <br>
@@ -47,10 +47,10 @@
 
 | **Versión** | **Fecha**   | **Autor**  | **Descripción de modificación**    |
 |-------------|-------------|---------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
-| TB1         | 18/09/25     | Argomedo, Jhosep; <br> González, Carlos; <br> Julca, Renso; <br> Ramírez, Sebastian. | Adición de secciones: <br> **Capítulo I:** Presentación <br> **Capítulo II:** Requirements Development and Software Solution Design |
-| TP1         | 18/09/25     | Argomedo, Jhosep; <br> González, Carlos; <br> Julca, Renso; <br> Ramírez, Sebastian. | Adición de secciones: <br> **Capítulo III:** Requirements Specification <br> **Capítulo IV:** Solution Software Design |
-| TB2         | 14/11/25     | Argomedo, Jhosep; <br> González, Carlos; <br> Julca, Renso; <br> Ramírez, Sebastian. | Adición de secciones: <br> **Capítulo V:** Solution UI/UX Design <br> **Capítulo VI:** Product Implementation, Validation & Deployment |
-| TF         | 02/12/25     | Argomedo, Jhosep; <br> González, Carlos; <br> Julca, Renso; <br> Ramírez, Sebastian. | Adición de secciones: <br> **Capítulo VI:** Product Implementation, Validation & Deployment - Sprint 03 |
+| TB1         | 18/09/25     | Diaz, Jorge; <br> Ramírez, Sebastian. | Adición de secciones: <br> **Capítulo I:** Presentación <br> **Capítulo II:** Requirements Development and Software Solution Design |
+| TP1         | 18/09/25     | Diaz, Jorge; <br> Ramírez, Sebastian. | Adición de secciones: <br> **Capítulo III:** Requirements Specification <br> **Capítulo IV:** Solution Software Design |
+| TB2         | 14/11/25     | Diaz, Jorge; <br> Ramírez, Sebastian. | Adición de secciones: <br> **Capítulo V:** Solution UI/UX Design <br> **Capítulo VI:** Product Implementation, Validation & Deployment |
+| TF         | 02/12/25     | Diaz, Jorge; <br> Ramírez, Sebastian. | Adición de secciones: <br> **Capítulo VI:** Product Implementation, Validation & Deployment - Sprint 03 |
 
 <br>
 <br>
@@ -96,137 +96,182 @@ A continuación, se muestran evidencias gráficas que ilustran la participación
     CONTENIDO
 -->
 
-# Contenido
-
-- [Registro de versiones del Informe](#registro-de-versiones-del-informe)
-- [Project Report Collaboration Insights](#project-report-collaboration-insights)
-- [Contenido](#contenido)
-- [Student Outcome](#student-outcome)
-
-## [Capítulo 1: Presentación](#capítulo-i-presentación)
-- [1.1. Startup Profile](#11-startup-profile)
-  - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
-  - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
-- [1.2. Solution Profile](#12-solution-profile)
-  - [1.2.1. Antecedentes y problemática](#121-antecedentes-y-problemática)
-  - [1.2.2. Lean UX Process](#122-lean-ux-process)
-    - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
-    - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
-    - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
-    - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
-- [1.3. Segmentos objetivo](#13-segmentos-objetivo)
-
-## [Capítulo 2: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis)
-- [2.1. Competidores](#21-competidores)
-  - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
-  - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
-- [2.2. Entrevistas](#22-entrevistas)
-  - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
-  - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
-  - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
-- [2.3. Needfinding](#23-needfinding)
-  - [2.3.1. User Personas](#231-user-personas)
-  - [2.3.2. User Task Matrix](#232-user-task-matrix)
-  - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
-  - [2.3.4. Empathy Mapping](#234-empathy-mapping)
-  - [2.3.5. Ubiquitous Language](#235-ubiquitous-language)
-
-## [Capítulo 3: Requirements Specification](#capítulo-iii-requirements-specification)
-- [3.1. User Stories](#31-user-stories)
-- [3.2. Technical Stories](#32-technical-stories)
-- [3.3. Impact Mapping](#33-impact-mapping)
-- [3.4. Product Backlog](#34-product-backlog)
-
-## [Capítulo 4: Solution Software Design](#capítulo-iv-solution-software-design)
-- [4.1. Strategic-Level Domain-Driven Design](#41-strategic-level-domain-driven-design)
-  - [4.1.1. EventStorming](#411-eventstorming)
-    - [4.1.1.1. Candidate Context Discovery](#4111-candidate-context-discovery)
-    - [4.1.1.2. Domain Message Flows Modeling](#4112-domain-message-flows-modeling)
-    - [4.1.1.3. Bounded Context Canvases](#4113-bounded-context-canvases)
-  - [4.1.2. Context Mapping](#412-context-mapping)
-  - [4.1.3. Software Architecture](#413-software-architecture)
-    - [4.1.3.1. Software Architecture Context Level Diagrams](#4131-software-architecture-context-level-diagrams)
-    - [4.1.3.2. Software Architecture Container Level Diagrams](#4132-software-architecture-container-level-diagrams)
-    - [4.1.3.3. Software Architecture Deployment Diagrams](#4133-software-architecture-deployment-diagrams)
-
-- [4.2. Tactical-Level Domain-Driven Design](#42-tactical-level-domain-driven-design)
-   - [4.2.1. Bounded Context:](#421-bounded-context)
-      - [4.2.1.1. Domain Layer](#4211-domain-layer)
-      - [4.2.1.2.Interface Layer](#4212-interface-layer)
-      - [4.2.1.3. Application Layer](#4213-application-layer)
-      - [4.2.1.4. Infrastructure Layer](#4214-infrastructure-layer)
-      - [4.2.1.5. Bounded Context Software Architecture Component Level Diagrams](#4215-bounded-context-software-architecture-component-level-diagrams)
-      - [4.2.1.6. Bounded Context Software Architecture Code Level Diagrams](#4216-bounded-context-software-architecture-code-level-diagrams)
-         - [4.2.1.6.1. Bounded Context Domain Layer Class Diagrams](#42161-bounded-context-domain-layer-class-diagrams)
-         - [4.2.1.6.2. Bounded Context Database Design Diagram](#42162-bounded-context-database-design-diagram)
-
-## [Capítulo 5: Solution UI/UX Design](#capítulo-v-solution-uiux-design)
-- [5.1. Product Design](#51-product-design)
-  - [5.1.1. Style Guidelines](#511-style-guidelines)
-    - [5.1.1.1. General Style Guidelines](#5111-general-style-guidelines)
-  - [5.1.2. Information Architecture](#512-information-architecture)
-    - [5.1.2.1. Organization Systems](#5121-organization-systems)
-    - [5.1.2.2. Labeling Systems](#5122-labeling-systems)
-    - [5.1.2.3. SEO Tags and Meta Tags](#5123-seo-tags-and-meta-tags)
-    - [5.1.2.4. Searching Systems](#5124-searching-systems)
-    - [5.1.2.5. Navigation Systems](#5125-navigation-systems)
-  - [5.1.3. Landing Page UI Design](#513-landing-page-ui-design)
-    - [5.1.3.1. Landing Page Wireframe](#5131-landing-page-wireframe)
-    - [5.1.3.2. Landing Page Mock-up](#5132-landing-page-mock-up)
-  - [5.1.4. Mobile Applications UX/UI Design](#514-mobile-applications-uxui-design)
-    - [5.1.4.1. Mobile Applications Wireframes](#5141-mobile-applications-wireframes)
-    - [5.1.4.2. Mobile Applications Wireflow Diagrams](#5142-mobile-applications-wireflow-diagrams)
-    - [5.1.4.3. Mobile Applications Mock-ups](#5143-mobile-applications-mock-ups)
-    - [5.1.4.4. Mobile Applications User Flow Diagrams](#5144-mobile-applications-user-flow-diagrams)
-    - [5.1.4.5. Mobile Applications Prototyping](#5145-mobile-applications-prototyping)
-
-## [Capítulo 6: Product Implementation, Validation & Deployment](#capítulo-vi-product-implementation-validation--deployment)
-- [6.1. Software Configuration Management](#61-software-configuration-management)
-  - [6.1.1. Software Development Environment Configuration](#611-software-development-environment-configuration)
-  - [6.1.3. Source Code Style Guide & Conventions](#613-source-code-style-guide--conventions)
-  - [6.1.4. Software Deployment Configuration](#614-software-deployment-configuration)
-
-- [6.2. Landing Page & Mobile Application Implementation](#62-landing-page--mobile-application-implementation)
-  - [6.2.1. Sprint 1](#621-sprint-1)
-    - [6.2.1.1. Sprint Planning 1](#6211-sprint-planning-1)
-    - [6.2.1.2. Sprint Backlog 1](#6212-sprint-backlog-1)
-    - [6.2.1.3. Development Evidence for Sprint Review](#6213-development-evidence-for-sprint-review)
-    - [6.2.1.4. Execution Evidence for Sprint Review](#6214-execution-evidence-for-sprint-review)
-    - [6.2.1.5 Services Documentation Evidence for Sprint Review](#6215-services-documentation-evidence-for-sprint-review)
-    - [6.2.1.6. Team Collaboration Insights during Sprint](#6216-team-collaboration-insights-during-sprint)
-
-  - [6.2.2. Sprint 2](#621-sprint-2)
-    - [6.2.2.1. Sprint Planning 2](#6221-sprint-planning-2)
-    - [6.2.2.2. Sprint Backlog 2](#6222-sprint-backlog-2)
-    - [6.2.2.3. Development Evidence for Sprint Review](#6223-development-evidence-for-sprint-review)
-    - [6.2.2.4. Testing Suite Evidence for Sprint Review](#6224-testing-suite-evidence-for-sprint-review)
-    - [6.2.2.5 Execution Evidence for Sprint Review](#6225-execution-evidence-for-sprint-review)
-    - [6.2.2.6. Services Documentation Evidence for Sprint Review](#6226-services-documentation-evidence-for-sprint-review)
-    - [6.2.2.7. Software Deployment Evidence for Sprint Review](#6227-software-deployment-evidence-for-sprint-review)
-    - [6.2.2.8. Team Collaboration Insights during Sprint](#6228-team-collaboration-insights-during-sprint)
-
-  - [6.2.3. Sprint 3](#623-sprint-3)
-    - [6.2.3.1. Sprint Planning 3](#6231-sprint-planning-3)
-    - [6.2.3.2. Sprint Backlog 3](#6232-sprint-backlog-3)
-    - [6.2.3.3. Development Evidence for Sprint Review](#6233-development-evidence-for-sprint-review)
-    - [6.2.3.4. Testing Suite Evidence for Sprint Review](#6234-testing-suite-evidence-for-sprint-review)
-    - [6.2.3.5 Execution Evidence for Sprint Review](#6235-execution-evidence-for-sprint-review)
-    - [6.2.3.6. Services Documentation Evidence for Sprint Review](#6236-services-documentation-evidence-for-sprint-review)
-    - [6.2.3.7. Software Deployment Evidence for Sprint Review](#6237-software-deployment-evidence-for-sprint-review)
-    - [6.2.3.8. Team Collaboration Insights during Sprint](#6238-team-collaboration-insights-during-sprint)
-
-- [6.3. Validation Interviews](#63-validation-interviews)
-- [6.3.1. Diseño de Entrevistas](#631-diseño-de-entrevistas)
-- [6.3.2. Registro de Entrevistas](#632-registro-de-entrevistas)
-- [6.3.3. Evaluaciones según heurísticas](#633-evaluaciones-segun-heurísticas)
-
+## Contenido
+ 
+### Part I: As-Is Software Project
+ 
+- [Capítulo I: Introducción](#capítulo-i-introducción)
+  - [1.1. Startup Profile](#11-startup-profile)
+    - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
+    - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
+  - [1.2. Solution Profile](#12-solution-profile)
+    - [1.2.1. Antecedentes y problemática](#121-antecedentes-y-problemática)
+    - [1.2.2. Lean UX Process](#122-lean-ux-process)
+      - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
+      - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
+      - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
+      - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
+  - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
+- [Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis)
+  - [2.1. Competidores](#21-competidores)
+    - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
+    - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
+  - [2.2. Entrevistas](#22-entrevistas)
+    - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
+    - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
+    - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
+  - [2.3. Needfinding](#23-needfinding)
+    - [2.3.1. User Personas](#231-user-personas)
+    - [2.3.2. User Task Matrix](#232-user-task-matrix)
+    - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
+    - [2.3.4. Empathy Mapping](#234-empathy-mapping)
+    - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
+  - [2.4. Ubiquitous Language](#24-ubiquitous-language)
+- [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
+  - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
+  - [3.2. User Stories](#32-user-stories)
+  - [3.3. Product Backlog](#33-product-backlog)
+  - [3.4. Impact Mapping](#34-impact-mapping)
+- [Capítulo IV: Product Design](#capítulo-iv-product-design)
+  - [4.1. Style Guidelines](#41-style-guidelines)
+    - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
+    - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
+    - [4.1.3. Mobile Style Guidelines](#413-mobile-style-guidelines)
+      - [4.1.3.1. iOS Mobile Style Guidelines](#4131-ios-mobile-style-guidelines)
+      - [4.1.3.2. Android Mobile Style Guidelines](#4132-android-mobile-style-guidelines)
+  - [4.2. Information Architecture](#42-information-architecture)
+    - [4.2.1. Organization Systems](#421-organization-systems)
+    - [4.2.2. Labeling Systems](#422-labeling-systems)
+    - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
+    - [4.2.4. Searching Systems](#424-searching-systems)
+    - [4.2.5. Navigation Systems](#425-navigation-systems)
+  - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
+    - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
+    - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
+  - [4.4. Mobile Applications UX/UI Design](#44-mobile-applications-uxui-design)
+    - [4.4.1. Mobile Applications Wireframes](#441-mobile-applications-wireframes)
+    - [4.4.2. Mobile Applications Wireflow Diagrams](#442-mobile-applications-wireflow-diagrams)
+    - [4.4.3. Mobile Applications Mock-ups](#443-mobile-applications-mock-ups)
+    - [4.4.4. Mobile Applications User Flow Diagrams](#444-mobile-applications-user-flow-diagrams)
+  - [4.5. Mobile Applications Prototyping](#45-mobile-applications-prototyping)
+    - [4.5.1. Android Mobile Applications Prototyping](#451-android-mobile-applications-prototyping)
+    - [4.5.2. iOS Mobile Applications Prototyping](#452-ios-mobile-applications-prototyping)
+  - [4.6. Web Applications UX/UI Design](#46-web-applications-uxui-design)
+    - [4.6.1. Web Applications Wireframes](#461-web-applications-wireframes)
+    - [4.6.2. Web Applications Wireflow Diagrams](#462-web-applications-wireflow-diagrams)
+    - [4.6.3. Web Applications Mock-ups](#463-web-applications-mock-ups)
+    - [4.6.4. Web Applications User Flow Diagrams](#464-web-applications-user-flow-diagrams)
+  - [4.7. Web Applications Prototyping](#47-web-applications-prototyping)
+  - [4.8. Domain-Driven Software Architecture](#48-domain-driven-software-architecture)
+    - [4.8.1. Software Architecture Context Diagram](#481-software-architecture-context-diagram)
+    - [4.8.2. Software Architecture Container Diagrams](#482-software-architecture-container-diagrams)
+    - [4.8.3. Software Architecture Components Diagrams](#483-software-architecture-components-diagrams)
+  - [4.9. Software Object-Oriented Design](#49-software-object-oriented-design)
+    - [4.9.1. Class Diagrams](#491-class-diagrams)
+    - [4.9.2. Class Dictionary](#492-class-dictionary)
+  - [4.10. Database Design](#410-database-design)
+    - [4.10.1. Relational/Non-Relational Database Diagram](#4101-relationalnon-relational-database-diagram)
+- [Capítulo V: Product Implementation](#capítulo-v-product-implementation)
+  - [5.1. Software Configuration Management](#51-software-configuration-management)
+    - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
+    - [5.1.2. Source Code Management](#512-source-code-management)
+    - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
+    - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
+  - [5.2. Product Implementation & Deployment](#52-product-implementation--deployment)
+    - [5.2.1. Sprint Backlogs](#521-sprint-backlogs)
+    - [5.2.2. Implemented Landing Page Evidence](#522-implemented-landing-page-evidence)
+    - [5.2.3. Implemented Frontend-Web Application Evidence](#523-implemented-frontend-web-application-evidence)
+    - [5.2.4. Acuerdo de Servicio - SaaS](#524-acuerdo-de-servicio---saas)
+    - [5.2.5. Implemented Native-Mobile Application Evidence](#525-implemented-native-mobile-application-evidence)
+    - [5.2.6. Implemented RESTful API and/or Serverless Backend Evidence](#526-implemented-restful-api-andor-serverless-backend-evidence)
+    - [5.2.7. RESTful API documentation](#527-restful-api-documentation)
+    - [5.2.8. Team Collaboration Insights](#528-team-collaboration-insights)
+  - [5.3. Video About-the-Product](#53-video-about-the-product)
+### Part II: Verification, Validation & Pipeline
+ 
+- [Capítulo VI: Product Verification & Validation](#capítulo-vi-product-verification--validation)
+  - [6.1. Testing Suites & Validation](#61-testing-suites--validation)
+    - [6.1.1. Core Entities Unit Tests](#611-core-entities-unit-tests)
+    - [6.1.2. Core Integration Tests](#612-core-integration-tests)
+    - [6.1.3. Core Behavior-Driven Development](#613-core-behavior-driven-development)
+    - [6.1.4. Core System Tests](#614-core-system-tests)
+  - [6.2. Static Testing & Verification](#62-static-testing--verification)
+    - [6.2.1. Static Code Analysis](#621-static-code-analysis)
+      - [6.2.1.1. Coding standard & Code conventions](#6211-coding-standard--code-conventions)
+      - [6.2.1.2. Code Quality & Code Security](#6212-code-quality--code-security)
+    - [6.2.2. Reviews](#622-reviews)
+  - [6.3. Validation Interviews](#63-validation-interviews)
+    - [6.3.1. Diseño de Entrevistas](#631-diseño-de-entrevistas)
+    - [6.3.2. Registro de Entrevistas](#632-registro-de-entrevistas)
+    - [6.3.3. Evaluaciones según heurísticas](#633-evaluaciones-según-heurísticas)
+  - [6.4. Auditoría de Experiencias de Usuario](#64-auditoría-de-experiencias-de-usuario)
+    - [6.4.1. Auditoría realizada](#641-auditoría-realizada)
+      - [6.4.1.1. Información del grupo auditado](#6411-información-del-grupo-auditado)
+      - [6.4.1.2. Cronograma de auditoría realizada](#6412-cronograma-de-auditoría-realizada)
+      - [6.4.1.3. Contenido de auditoría realizada](#6413-contenido-de-auditoría-realizada)
+    - [6.4.2. Auditoría recibida](#642-auditoría-recibida)
+      - [6.4.2.1. Información del grupo auditor](#6421-información-del-grupo-auditor)
+      - [6.4.2.2. Cronograma de auditoría recibida](#6422-cronograma-de-auditoría-recibida)
+      - [6.4.2.3. Contenido de auditoría recibida](#6423-contenido-de-auditoría-recibida)
+      - [6.4.2.4. Resumen de modificaciones para subsanar hallazgos](#6424-resumen-de-modificaciones-para-subsanar-hallazgos)
+- [Capítulo VII: DevOps Practices](#capítulo-vii-devops-practices)
+  - [7.1. Continuous Integration](#71-continuous-integration)
+    - [7.1.1. Tools and Practices](#711-tools-and-practices)
+    - [7.1.2. Build & Test Suite Pipeline Components](#712-build--test-suite-pipeline-components)
+  - [7.2. Continuous Delivery](#72-continuous-delivery)
+    - [7.2.1. Tools and Practices](#721-tools-and-practices)
+    - [7.2.2. Stages Deployment Pipeline Components](#722-stages-deployment-pipeline-components)
+  - [7.3. Continuous Deployment](#73-continuous-deployment)
+    - [7.3.1. Tools and Practices](#731-tools-and-practices)
+    - [7.3.2. Production Deployment Pipeline Components](#732-production-deployment-pipeline-components)
+  - [7.4. Continuous Monitoring](#74-continuous-monitoring)
+    - [7.4.1. Tools and Practices](#741-tools-and-practices)
+    - [7.4.2. Monitoring Pipeline Components](#742-monitoring-pipeline-components)
+    - [7.4.3. Alerting Pipeline Components](#743-alerting-pipeline-components)
+    - [7.4.4. Notification Pipeline Components](#744-notification-pipeline-components)
+### Part III: Experiment-Driven Lifecycle
+ 
+- [Capítulo VIII: Experiment-Driven Development](#capítulo-viii-experiment-driven-development)
+  - [8.1. Experiment Planning](#81-experiment-planning)
+    - [8.1.1. As-Is Summary](#811-as-is-summary)
+    - [8.1.2. Raw Material: Assumptions, Knowledge Gaps, Ideas, Claims](#812-raw-material-assumptions-knowledge-gaps-ideas-claims)
+    - [8.1.3. Experiment-Ready Questions](#813-experiment-ready-questions)
+    - [8.1.4. Question Backlog](#814-question-backlog)
+    - [8.1.5. Experiment Cards](#815-experiment-cards)
+  - [8.2. Experiment Design](#82-experiment-design)
+    - [8.2.1. Hypotheses](#821-hypotheses)
+    - [8.2.2. Domain Business Metrics](#822-domain-business-metrics)
+    - [8.2.3. Measures](#823-measures)
+    - [8.2.4. Conditions](#824-conditions)
+    - [8.2.5. Scale Calculations and Decisions](#825-scale-calculations-and-decisions)
+    - [8.2.6. Methods Selection](#826-methods-selection)
+    - [8.2.7. Data Analytics: Goals, KPIs and Metrics Selection](#827-data-analytics-goals-kpis-and-metrics-selection)
+    - [8.2.8. Web and Mobile Tracking Plan](#828-web-and-mobile-tracking-plan)
+  - [8.3. Experimentation](#83-experimentation)
+    - [8.3.1. To-Be User Stories](#831-to-be-user-stories)
+    - [8.3.2. To-Be Product Backlog](#832-to-be-product-backlog)
+    - [8.3.3. Pipeline-supported, Experiment-Driven To-Be Software Platform Lifecycle](#833-pipeline-supported-experiment-driven-to-be-software-platform-lifecycle)
+      - [8.3.3.1. To-Be Sprint Backlogs](#8331-to-be-sprint-backlogs)
+      - [8.3.3.2. Implemented To-Be Landing Page Evidence](#8332-implemented-to-be-landing-page-evidence)
+      - [8.3.3.3. Implemented To-Be Frontend-Web Application Evidence](#8333-implemented-to-be-frontend-web-application-evidence)
+      - [8.3.3.4. Implemented To-Be Native-Mobile Application Evidence](#8334-implemented-to-be-native-mobile-application-evidence)
+      - [8.3.3.5. Implemented To-Be RESTful API and/or Serverless Backend Evidence](#8335-implemented-to-be-restful-api-andor-serverless-backend-evidence)
+      - [8.3.3.6. Team Collaboration Insights](#8336-team-collaboration-insights)
+    - [8.3.4. To-Be Validation Interviews](#834-to-be-validation-interviews)
+      - [8.3.4.1. Diseño de Entrevistas](#8341-diseño-de-entrevistas)
+      - [8.3.4.2. Registro de Entrevistas](#8342-registro-de-entrevistas)
+  - [8.4. Experiment Aftermath & Analysis](#84-experiment-aftermath--analysis)
+    - [8.4.1. Analysis and Interpretation of Results](#841-analysis-and-interpretation-of-results)
+    - [8.4.2. Re-scored and Re-prioritized Question Backlog](#842-re-scored-and-re-prioritized-question-backlog)
+  - [8.5. Continuous Learning](#85-continuous-learning)
+    - [8.5.1. Shareback Session Artifacts: Learning Workflow](#851-shareback-session-artifacts-learning-workflow)
+  - [8.6. To-Be Software Platform Pre-launch](#86-to-be-software-platform-pre-launch)
+    - [8.6.1. About-the-Product Intro Video](#861-about-the-product-intro-video)
 ---
-
-- [Conclusiones](#conclusiones)
-- [Recomendaciones](#recomendaciones)
+ 
+- [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
 - [Video App Validation](#video-app-validation)
-- [Video About the product](#video-about-the-product)
-- [Video About the team](#video-about-the-team)
+- [Video About-the-Team](#video-about-the-team)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
 
@@ -293,7 +338,7 @@ Con esta herramienta buscamos reducir el aislamiento académico, facilitar la pr
 
 | **Integrante** | **Perfil** | **Foto** |
 |----------------|------------|----------|
-| **Jhosep J. Argomedo Camacho** <br><br> **Código:** U20231D978 <br><br> **Carrera:** Ingeniería de Software <br><br> **Rol:** Líder | Soy estudiante de Ingeniería de Software en la UPC (6to ciclo) con experiencia básica en desarrollo de aplicaciones móviles utilizando Flutter. Manejo herramientas como Git, GitHub y Figma, así como lenguajes de programación como HTML, CSS, Python, JavaScript, y bases de datos SQL y NoSQL. Con conocimientos en SCRUM y en la creación de User Stories, me destaco por mi liderazgo, responsabilidad y habilidad para coordinar equipos, enfocándome en el logro de objetivos comunes. | <img src="assets/images/team/jhosep_argomedo.jpg" width="1500"> |
+| **Jorge Luis Díaz Fiestas** <br><br> **Código:** U20231D534 <br><br> **Carrera:** Ingeniería de Software <br><br> **Rol:** Líder | Soy estudiante de Ingeniería de Software en la UPC (7mo ciclo) con experiencia básica en desarrollo de aplicaciones móviles utilizando Flutter. Manejo herramientas como Git, GitHub y Figma, así como lenguajes de programación como HTML, CSS, Python, JavaScript, y bases de datos SQL y NoSQL. Con conocimientos en SCRUM y en la creación de User Stories, me destaco por mi liderazgo, responsabilidad y habilidad para coordinar equipos, enfocándome en el logro de objetivos comunes. | <img src="assets/images/team/Jorge_Diaz.jpg" width="1500"> |
 | **Renso Anthony Julca Cruz** <br><br> **Código:** U202121579 <br><br> **Carrera:** Ingeniería de Software <br><br> **Rol:** Miembro | Estudiante de Ingeniería de Software, actualmente curso el 6to ciclo de esta carrera. Me apasiona programar y ser autodidacta para poder mejorar mis habilidades en el desarrollo de software, quisiera dedicarme a la parte de gestión bancaria. | ![Foto Renso](assets/images/team/renso_julca.jpg) |
 | **Carlos Alberto González Custodio** <br><br> **Código:** U202020230 <br><br> **Carrera:** Ingeniería de Software <br><br> **Rol:** Miembro | Soy estudiante de Ingeniería de Software, me encuentro actualmente cursando el 6to ciclo. Me encanta enriquecer mis conocimientos con nuevos desafíos y tengo un gran interés por el desarrollo web. | ![Foto Carlos](assets/images/team/carlos_gonzales.jpg) |
 | **Sebastian Ramirez Tello** <br><br> **Código:** U202316122 <br><br> **Carrera:** Ingeniería de Software <br><br> **Rol:** Miembro | Soy estudiante de 6to ciclo de la carrera de Ingeniería de Software. Me gusta mucho emplear soluciones creativas y que busquen eficiencia para poder abordar de esta forma cualquier desafío de la mejor manera.| ![Foto Sebastian](assets/images/team/sebastian_ramirez.png) |
