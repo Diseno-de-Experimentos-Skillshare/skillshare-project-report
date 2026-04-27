@@ -24,9 +24,9 @@ de Ingeniería de Software</div><div align="center">NRC: 12614</div>
 <br>
 <div align="center"> <strong>Integrantes:</strong></div>
 
-<div align="center">U20231D534 - Jorge Luis,
-Díaz Fiestas </div>
+<div align="center">U20231D534 - Jorge Luis,Díaz Fiestas </div>
 <div align="center">U202316122 - Ramírez Tello, Sebastian</div>
+<div align="center">U202124213 - Rodriguez Zuluoeta, Andres Fernando</div>
 
 <br>
 <br>
@@ -339,7 +339,7 @@ Con esta herramienta buscamos reducir el aislamiento académico, facilitar la pr
 | **Integrante** | **Perfil** | **Foto** |
 |----------------|------------|----------|
 | **Jorge Luis Díaz Fiestas** <br><br> **Código:** U20231D534 <br><br> **Carrera:** Ingeniería de Software <br><br> **Rol:** Líder | Soy estudiante de Ingeniería de Software en la UPC (7mo ciclo) con experiencia básica en desarrollo de aplicaciones móviles utilizando Flutter. Manejo herramientas como Git, GitHub y Figma, así como lenguajes de programación como HTML, CSS, Python, JavaScript, y bases de datos SQL y NoSQL. Con conocimientos en SCRUM y en la creación de User Stories, me destaco por mi liderazgo, responsabilidad y habilidad para coordinar equipos, enfocándome en el logro de objetivos comunes. | <img src="assets/images/team/Jorge_Diaz.jpeg" width="1500"> |
-| **Renso Anthony Julca Cruz** <br><br> **Código:** U202121579 <br><br> **Carrera:** Ingeniería de Software <br><br> **Rol:** Miembro | Estudiante de Ingeniería de Software, actualmente curso el 6to ciclo de esta carrera. Me apasiona programar y ser autodidacta para poder mejorar mis habilidades en el desarrollo de software, quisiera dedicarme a la parte de gestión bancaria. | ![Foto Renso](assets/images/team/renso_julca.jpg) |
+| **Andres Fernando Rodriguez Zuluoeta** <br><br> **Código:** U202124213 <br><br> **Carrera:** Ingeniería de Software <br><br> **Rol:** Miembro | Estudiante de Ingeniería de Software, actualmente curso el 8to ciclo de esta carrera. Enfoque en estructuración de soluciones tecnológicas, gestión de proyectos y documentación técnica. Interesado en el desarrollo de sistemas basados en IoT. | ![Foto Renso](assets/images/team/andres_rodriguez.jpg) |
 | **Carlos Alberto González Custodio** <br><br> **Código:** U202020230 <br><br> **Carrera:** Ingeniería de Software <br><br> **Rol:** Miembro | Soy estudiante de Ingeniería de Software, me encuentro actualmente cursando el 6to ciclo. Me encanta enriquecer mis conocimientos con nuevos desafíos y tengo un gran interés por el desarrollo web. | ![Foto Carlos](assets/images/team/carlos_gonzales.jpg) |
 | **Sebastian Ramirez Tello** <br><br> **Código:** U202316122 <br><br> **Carrera:** Ingeniería de Software <br><br> **Rol:** Miembro | Soy estudiante de 6to ciclo de la carrera de Ingeniería de Software. Me gusta mucho emplear soluciones creativas y que busquen eficiencia para poder abordar de esta forma cualquier desafío de la mejor manera.| ![Foto Sebastian](assets/images/team/sebastian_ramirez.png) |
 
