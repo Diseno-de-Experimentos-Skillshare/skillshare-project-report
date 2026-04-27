@@ -27,6 +27,7 @@ de Ingeniería de Software</div><div align="center">NRC: 12614</div>
 <div align="center">U20231D534 - Jorge Luis,Díaz Fiestas </div>
 <div align="center">U202316122 - Ramírez Tello, Sebastian</div>
 <div align="center">U202124213 - Rodriguez Zuluoeta, Andres Fernando</div>
+<div align="center">U202223811 - Montañez Moreno, Luis Angel</div>
 
 <br>
 <br>
@@ -342,6 +343,7 @@ Con esta herramienta buscamos reducir el aislamiento académico, facilitar la pr
 | **Andres Fernando Rodriguez Zuluoeta** <br><br> **Código:** U202124213 <br><br> **Carrera:** Ingeniería de Software <br><br> **Rol:** Miembro | Estudiante de Ingeniería de Software, actualmente curso el 8to ciclo de esta carrera. Enfoque en estructuración de soluciones tecnológicas, gestión de proyectos y documentación técnica. Interesado en el desarrollo de sistemas basados en IoT. | ![Foto Renso](assets/images/team/andres_rodriguez.jpg) |
 | **Carlos Alberto González Custodio** <br><br> **Código:** U202020230 <br><br> **Carrera:** Ingeniería de Software <br><br> **Rol:** Miembro | Soy estudiante de Ingeniería de Software, me encuentro actualmente cursando el 6to ciclo. Me encanta enriquecer mis conocimientos con nuevos desafíos y tengo un gran interés por el desarrollo web. | ![Foto Carlos](assets/images/team/carlos_gonzales.jpg) |
 | **Sebastian Ramirez Tello** <br><br> **Código:** U202316122 <br><br> **Carrera:** Ingeniería de Software <br><br> **Rol:** Miembro | Soy estudiante de 6to ciclo de la carrera de Ingeniería de Software. Me gusta mucho emplear soluciones creativas y que busquen eficiencia para poder abordar de esta forma cualquier desafío de la mejor manera.| ![Foto Sebastian](assets/images/team/sebastian_ramirez.png) |
+| **Luis Angel Montañez Moreno** <br><br> **Código:** U202223811 <br><br> **Carrera:** Ingeniería de Software <br><br> **Rol:** Miembro | Soy un estudiante de 6to ciclo de la carrera de Ingeniería de Software que le gusta aprender sobre la tecnología y cómo su uso puede mejorar nuestra vida cotidiana. Mi objetivo es seguir adquiriendo conocimientos en lenguajes de programación para ser más competente en el mundo profesional.| ![Foto Luis](assets/images/team/Luis_Montañez.jpg) |
 
 <br>
 <br>
