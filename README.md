@@ -28,6 +28,7 @@ de Ingeniería de Software</div><div align="center">NRC: 12614</div>
 <div align="center">U202316122 - Ramírez Tello, Sebastian</div>
 <div align="center">U202124213 - Rodriguez Zuluoeta, Andres Fernando</div>
 <div align="center">U202223811 - Montañez Moreno, Luis Angel</div>
+<div align="center">U202414840 - Orosco Ttamiña, Juan Carlos</div>
 
 <br>
 <br>
